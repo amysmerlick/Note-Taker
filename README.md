@@ -10,10 +10,17 @@
   * [License](#license)
   
   # Installation
-  Using Node.js and the Inquirer Package, this application allows users to quickly develop a README. md file using command-line controls in their terminal. To install, run the following processes first in your terminal: 'npm init -y', then 'npm i inquirer', then make sure to add a '.gitignore' file. Once the user has all required files downloaded, type 'node index.js', and the prompts requiring user input will begin. Once finished, a README.md will be generated.
+
+
+
+
+
   # Usage
-  Please click on the included url for the walthrough video which demonstrates how to use this tool
- https://drive.google.com/file/d/13FgW4bPjVes236lSoc65f5I6a8K5mUdj/view
+![NoteTaker 1](https://user-images.githubusercontent.com/77814900/118194268-1ab13280-b417-11eb-8c3e-a602ff5548d9.png)
+![NoteTaker 2](https://user-images.githubusercontent.com/77814900/118194346-3ae0f180-b417-11eb-80d6-238038b3fd33.png)
+![NoteTaker 3](https://user-images.githubusercontent.com/77814900/118194383-4a603a80-b417-11eb-8a24-def57239a972.png)
+![NoteTaker 4](https://user-images.githubusercontent.com/77814900/118194409-53510c00-b417-11eb-9601-9dae14ba996b.png)
+
   # Contributors
   Amy Smerlick
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amysmerlick&theme=blue-green)
