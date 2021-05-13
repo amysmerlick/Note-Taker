@@ -1,5 +1,5 @@
   # 🌺Note-Taker🌺
-  ## [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
   # Description
   ### As a developer I want a README generator so that I can quickly create a professional README for a new project. NPM is a collection of common interactive command lines that are easily embeddable and have a beautiful interface for node.js
   # 📚📚 Table of Contents📚📚
@@ -23,6 +23,7 @@
   Trilogy, GitHub
   # License
   The application you're enjoying is covered under the MIT license
+  ## [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
   # Questions ❓❓
   For questions, please email me, or contact me via GitHub.
   * 📧Email📬: amysmerlick@gmail.com
