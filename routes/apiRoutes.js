@@ -1,13 +1,13 @@
 const router = require('express').Router();
-const notes = require('../db/notes')
+const Notes = require('../db/Notes')
 router.get("/notes", (req, res)=>{
-    notes.getNotes().then(notes =>res.json(notes)).catch(err=>res.status(500).json(err))
+    Notes.getNotes().then(notes =>res.json(notes)).catch(err=>res.status(500).json(err))
 })
 router.post("/notes", (req, res)=>{
-    notes.addNote(req.body)
+    Notes.addNote(req.body).then(notes =>res.json(notes)).catch(err=>res.status(500).json(err))
 })
 
 router.delete("/notes/:id", (req, res)=>{
-    notes.deleteNote(req.params.id)
+    Notes.deleteNote(req.params.id)
 })
 module.exports = router;
