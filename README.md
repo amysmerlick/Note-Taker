@@ -1,7 +1,7 @@
   # 🌺Note-Taker🌺
 
   # Description
-  ### As a developer I want a README generator so that I can quickly create a professional README for a new project. NPM is a collection of common interactive command lines that are easily embeddable and have a beautiful interface for node.js
+  ### For class we are to create our own server-side APIs using the Express.js framework. Express is the most widely used Node.js server framework.
   # 📚📚 Table of Contents📚📚
   * [Installation](#installation)
   * [Usage](#usage)
