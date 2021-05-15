@@ -29,7 +29,7 @@
   # Instructions 👀
   Once the user has all required files downloaded, type 'node index.js', and the prompts requiring user input will begin. Once finished, a README.md will be generated.
   # Credits
-  Trilogy, GitHub
+  Trilogy, GitHub, Heroku
   # License
   The application you're enjoying is covered under the MIT license
   ## [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
@@ -38,3 +38,4 @@
   * 📧Email📬: amysmerlick@gmail.com
   * 💹GitHub💹: www.github.com/amysmerlick
   * ![Profile View Counter](https://komarev.com/ghpvc/?username=amysmerlick)
+  * Heroku: https://note-taker-amy.herokuapp.com/
