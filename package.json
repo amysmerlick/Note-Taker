@@ -7,10 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amysmerlick/Note-Toker.git"
+  },
+  "homepage": "https://github.com/amysmerlick/Note-Taker",
   "dependencies": {
     "express": "^4.17.1",
+    "util": "^0.12.3",
     "uuid": "^8.3.2"
   }
 }
