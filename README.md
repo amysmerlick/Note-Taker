@@ -1,7 +1,7 @@
   # 🌺Note-Taker🌺
 
   # Description
-  ### For class we are to create our own server-side APIs using the Express.js framework. Express is the most widely used Node.js server framework.
+  ### For class, we are to create our own server-side APIs using the Express.js framework using starter code provided. Express is the most widely used Node.js server framework. This app will be used by allow someone to oragnize their thoughts by creating notes along with descriptions.
 
   
   # 📚📚 Table of Contents📚📚
@@ -12,7 +12,7 @@
   * [License](#license)
   
   # Installation
-
+Install Express and UUID
 
 
 
@@ -27,7 +27,7 @@
   Amy Smerlick
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amysmerlick&theme=blue-green)
   # Instructions 👀
-  Once the user has all required files downloaded, type 'node index.js', and the prompts requiring user input will begin. Once finished, a README.md will be generated.
+  Once the user has all required files downloaded, type 'npm install express' and then 'npm install uuid' in the terminal. 
   # Credits
   Trilogy, GitHub, Heroku
   # License
