@@ -25,6 +25,7 @@ class Notes {
         //concat
         let title = note.title
         let text = note.text
+        // const newNote = {title, text}
         const newNote = {title, text, id:uuidv4()}
         return this.getNotes().then(notes => {
             let noteArray = notes
